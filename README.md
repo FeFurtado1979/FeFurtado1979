@@ -1,5 +1,5 @@
 * Sou uma contadora buscando uma nova formação em analise e desenvolvimento de sistemas. Procuro em Dev, a resolução de problemas do nosso dia a dia pessoal e profissional. Atualmente, 
-estou aprimorando minhas habilidades na área de desenvolvimento de software para melhorar meus conhecimentos em análise de dados.
+estou buscando novas habilidades na área de desenvolvimento de software para melhorar meus conhecimentos em análise de dados.
 
 
 - 🚀 **Sobre mim:** Hi, I’m @FeFurtado1979  👋 
