@@ -9,7 +9,7 @@ estou buscando novas habilidades na área de desenvolvimento de software para me
 - 💼 **Metas de carreira:** Transição para análise de dados
 - 🧠 **Aprendizagem:** Focada em Python e Análise de Dados
 - 🤝 **Aberto a colaboração em:** Projetos de código aberto para iniciantes
-- 📫 **Como entrar em contato comigo:** linkedin.com/in/fernandamullerfurtado
+- 📫 **Como entrar em contato comigo:** [Meu LinkedIn](https://www.linkedin.com/in/fernandamullerfurtado/)
 
 
 <!---
