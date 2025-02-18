@@ -4,6 +4,7 @@ estou aprimorando minhas habilidades na área de desenvolvimento de software par
 
 - 🚀 **Sobre mim:** Hi, I’m @FeFurtado1979  👋 
 - 🌍 **Baseado em:** Porto Alegre, Brasil
+- 🎓 **Formação:** Graduação em Ciências Contábeis, atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Unisinos
 - 🧑‍💻 **Função atual:** Analista de contabilidade sênior
 - 💼 **Metas de carreira:** Transição para análise de dados
 - 🧠 **Aprendizagem:** Focada em Python e Análise de Dados
